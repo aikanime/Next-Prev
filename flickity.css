@@ -11,8 +11,8 @@ http://flickity.metafizzy.co
 .flickity-viewport {
   overflow: hidden;
   position: relative;
+  width: 130%;
   height: 100%;
-  width: 720px
 }
 
 .flickity-slider {
